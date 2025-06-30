@@ -1,8 +1,69 @@
-LosConecta
-Plataforma educacional gratuita para comunidades carentes. Conteúdos organizados por faixa etária e área do conhecimento, com recursos multimídia e agendamento de encontros com mentores.
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>LosConecta - Plataforma Educacional</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+    h1, h2, h3 { color: #2c3e50; }
+    ul { margin-top: 0; }
+    .highlight { background-color: #ecf0f1; padding: 10px; border-radius: 5px; }
+    .section { margin-bottom: 40px; }
+  </style>
+</head>
+<body>
 
-Trabalho de Informática 
-Alunos: Matheus Santos, Isaque Lima, Sandro Gabriel, Dereck Duran e Erick Bittlher 
-Professores: Denise, Otávio e Matheus Bastos
-Matéria de LTP, Banco de Dados e Laboratório
-RGI51
+  <h1>🌐 LosConecta</h1>
+  <h2>Uma plataforma educacional gratuita para transformar o acesso ao conhecimento nas comunidades</h2>
+
+  <div class="section highlight">
+    <h3>🎯 Objetivo Ampliado da Plataforma</h3>
+    <p>O principal objetivo da <strong>LosConecta</strong> é <strong>reduzir as desigualdades educacionais</strong> por meio do uso inteligente da tecnologia, oferecendo uma <strong>plataforma digital inclusiva, acessível e gratuita</strong>, voltada especialmente para <strong>comunidades em situação de vulnerabilidade social</strong>.</p>
+
+    <p>Queremos <strong>empoderar crianças, jovens e adultos</strong> por meio da educação, criando oportunidades reais de desenvolvimento pessoal, acadêmico e profissional. A plataforma propõe uma abordagem educacional moderna, personalizada e interativa, utilizando <strong>recursos multimídia</strong>, <strong>mentorias voluntárias</strong> e um <strong>acervo de conteúdos estruturados</strong> de acordo com a idade, o nível de escolaridade e os interesses de cada usuário.</p>
+
+    <p>Além disso, a LosConecta busca:</p>
+    <ul>
+      <li>Incluir digitalmente populações marginalizadas;</li>
+      <li>Fomentar o protagonismo comunitário por meio de mentorias;</li>
+      <li>Despertar vocações e talentos, especialmente em áreas como tecnologia e empreendedorismo;</li>
+      <li>Contribuir para a diminuição da evasão escolar;</li>
+      <li>Promover a equidade no acesso ao conhecimento.</li>
+    </ul>
+  </div>
+
+  <div class="section highlight">
+    <h3>🔎 Descrição do Projeto</h3>
+    <p><strong>LosConecta</strong> é uma plataforma digital voltada para comunidades carentes, com o objetivo de oferecer acesso gratuito à educação de qualidade.</p>
+    <p>O conteúdo é organizado por <strong>faixa etária</strong> e <strong>área do conhecimento</strong>, e inclui <strong>recursos multimídia</strong> e a possibilidade de <strong>agendamento de encontros com mentores</strong>.</p>
+  </div>
+
+  <div class="section">
+    <h3>👨‍💻 Equipe de Desenvolvimento</h3>
+    <ul>
+      <li>Matheus Santos</li>
+      <li>Isaque Lima</li>
+      <li>Sandro Gabriel</li>
+      <li>Dereck Duran</li>
+      <li>Erick Bittlher</li>
+    </ul>
+
+    <h3>👩‍🏫 Professores Orientadores</h3>
+    <ul>
+      <li>Denise</li>
+      <li>Otávio</li>
+      <li>Matheus Bastos</li>
+    </ul>
+
+    <h3>📚 Disciplinas Envolvidas</h3>
+    <ul>
+      <li>LTP (Linguagem e Técnicas de Programação)</li>
+      <li>Banco de Dados</li>
+      <li>Laboratório de Informática</li>
+    </ul>
+
+    <p><strong>Turma:</strong> RGI51</p>
+  </div>
+
+</body>
+</html>
