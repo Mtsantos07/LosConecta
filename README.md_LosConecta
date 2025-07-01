@@ -1,69 +1,61 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>LosConecta - Plataforma Educacional</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
-    h1, h2, h3 { color: #2c3e50; }
-    ul { margin-top: 0; }
-    .highlight { background-color: #ecf0f1; padding: 10px; border-radius: 5px; }
-    .section { margin-bottom: 40px; }
-  </style>
-</head>
-<body>
+# 🌐 LosConecta
 
-  <h1>🌐 LosConecta</h1>
-  <h2>Uma plataforma educacional gratuita para transformar o acesso ao conhecimento nas comunidades</h2>
+**LosConecta** é uma **plataforma educacional gratuita** voltada para **comunidades em situação de vulnerabilidade social**, com o objetivo de **reduzir as desigualdades educacionais** por meio da tecnologia.
 
-  <div class="section highlight">
-    <h3>🎯 Objetivo Ampliado da Plataforma</h3>
-    <p>O principal objetivo da <strong>LosConecta</strong> é <strong>reduzir as desigualdades educacionais</strong> por meio do uso inteligente da tecnologia, oferecendo uma <strong>plataforma digital inclusiva, acessível e gratuita</strong>, voltada especialmente para <strong>comunidades em situação de vulnerabilidade social</strong>.</p>
+## 🎯 Objetivo do Projeto
 
-    <p>Queremos <strong>empoderar crianças, jovens e adultos</strong> por meio da educação, criando oportunidades reais de desenvolvimento pessoal, acadêmico e profissional. A plataforma propõe uma abordagem educacional moderna, personalizada e interativa, utilizando <strong>recursos multimídia</strong>, <strong>mentorias voluntárias</strong> e um <strong>acervo de conteúdos estruturados</strong> de acordo com a idade, o nível de escolaridade e os interesses de cada usuário.</p>
+A missão do LosConecta é:
 
-    <p>Além disso, a LosConecta busca:</p>
-    <ul>
-      <li>Incluir digitalmente populações marginalizadas;</li>
-      <li>Fomentar o protagonismo comunitário por meio de mentorias;</li>
-      <li>Despertar vocações e talentos, especialmente em áreas como tecnologia e empreendedorismo;</li>
-      <li>Contribuir para a diminuição da evasão escolar;</li>
-      <li>Promover a equidade no acesso ao conhecimento.</li>
-    </ul>
-  </div>
+- Proporcionar **acesso inclusivo e gratuito** ao conhecimento;
+- **Empoderar crianças, jovens e adultos** através da educação personalizada e interativa;
+- Disponibilizar **recursos multimídia**, **mentorias voluntárias** e conteúdos organizados por **faixa etária** e **área do conhecimento**;
+- Fomentar o uso da tecnologia como meio de **transformação social**.
 
-  <div class="section highlight">
-    <h3>🔎 Descrição do Projeto</h3>
-    <p><strong>LosConecta</strong> é uma plataforma digital voltada para comunidades carentes, com o objetivo de oferecer acesso gratuito à educação de qualidade.</p>
-    <p>O conteúdo é organizado por <strong>faixa etária</strong> e <strong>área do conhecimento</strong>, e inclui <strong>recursos multimídia</strong> e a possibilidade de <strong>agendamento de encontros com mentores</strong>.</p>
-  </div>
+### Com isso, buscamos:
 
-  <div class="section">
-    <h3>👨‍💻 Equipe de Desenvolvimento</h3>
-    <ul>
-      <li>Matheus Santos</li>
-      <li>Isaque Lima</li>
-      <li>Sandro Gabriel</li>
-      <li>Dereck Duran</li>
-      <li>Erick Bittlher</li>
-    </ul>
+- Incluir digitalmente populações marginalizadas;
+- Estimular o protagonismo comunitário com mentorias;
+- Incentivar vocações em áreas como **tecnologia e empreendedorismo**;
+- Combater a evasão escolar;
+- Promover a **equidade no acesso à educação**.
 
-    <h3>👩‍🏫 Professores Orientadores</h3>
-    <ul>
-      <li>Denise</li>
-      <li>Otávio</li>
-      <li>Matheus Bastos</li>
-    </ul>
+## 🔎 Descrição Técnica
 
-    <h3>📚 Disciplinas Envolvidas</h3>
-    <ul>
-      <li>LTP (Linguagem e Técnicas de Programação)</li>
-      <li>Banco de Dados</li>
-      <li>Laboratório de Informática</li>
-    </ul>
+A plataforma foi desenvolvida como parte de um projeto educacional interdisciplinar, com foco em:
 
-    <p><strong>Turma:</strong> RGI51</p>
-  </div>
+- HTML e CSS (estrutura e estilo);
+- Organização de conteúdo educativo por **faixa etária** e **temática**;
+- Planejamento para futuras implementações com agendamento de **mentorias online**.
 
-</body>
-</html>
+## 👨‍💻 Equipe de Desenvolvimento
+
+- Matheus Santos  
+- Isaque Lima  
+- Sandro Gabriel  
+- Dereck Duran  
+- Erick Bittlher  
+
+## 👩‍🏫 Professores Orientadores
+
+- Denise  
+- Otávio  
+- Matheus Bastos  
+
+## 📚 Disciplinas Envolvidas
+
+- LTP (Linguagem e Técnicas de Programação)  
+- Banco de Dados  
+- Laboratório de Informática  
+
+**Turma:** RGI51
+
+## 🚀 Futuras Expansões
+
+- Integração com banco de dados para cadastro de usuários e agendamento de mentorias;
+- Sistema de login e trilhas personalizadas de aprendizagem;
+- Design responsivo com TailwindCSS;
+- Implementação de backend com ASP.NET ou PHP.
+
+---
+
+> Este projeto é uma iniciativa educacional com foco social. Qualquer contribuição ou sugestão é bem-vinda!
